@@ -1,2 +1,2 @@
-# HaziqSaya
-Game I created for my partner as a birthday gift
+# Gift
+This is a simple game that is created using Pygame. This game is created for someone special in my life <3. I make it public just to show my capabilities in coding even it is just a simple code.
